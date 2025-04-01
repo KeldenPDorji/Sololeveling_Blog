@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "gem"
+    },
+    "text": "Kelden Phuntsho Dorji"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "lucide",
+      "name": "cake-slice"
+    },
+    "text": "20 orbits around the sun"
+  },
+  {
+    "id": 3,
+    "icon": {
+      "type": "lucide",
+      "name": "graduation-cap"
+    },
+    "text": "2nd-year SWE @ CST Bhutan"
+  },
+  {
+    "id": 4,
+    "icon": {
+      "type": "lucide",
+      "name": "earth-lock"
+    },
+    "text": "Cybersecurity major"
+  },
+  {
+    "id": 5,
+    "icon": {
+      "type": "lucide",
+      "name": "terminal"
+    },
+    "text": "Code ninja in training"
+  },
+  {
+    "id": 6,
+    "icon": {
+      "type": "lucide",
+      "name": "mail"
+    },
+    "text": "02230285.cst@rub.edu.bt"
+  }
+]
