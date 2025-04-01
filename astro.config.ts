@@ -22,8 +22,8 @@ export default defineConfig({
       name: 'Drac',
       openGraph: {
         home: {
-          title: 'Spectre',
-          description: 'A minimalistic theme for Astro.'
+          title: 'Dracula',
+          description: 'A minimalistic theme for Drac.'
         },
         blog: {
           title: 'Blog',
